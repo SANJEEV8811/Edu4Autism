@@ -148,9 +148,9 @@ To get a local copy up and running, follow these simple steps.
 
 Meet the amazing people behind Edu4Autism:
 
-* **Rithika B** - [@github-rithi-jbala](https://github.com/github-rithi-jbala)
-* **Sanjeev D** - [@github-SANJEEV8811](https://github.com/github-SANJEEV8811)
-* **Alagappan A** - [@github-Alagappan03](https://github.com/github-Alagappan03)
+* **Rithika B** - [@rithi-jbala](https://github.com/rithi-jbala)
+* **Sanjeev D** - [@SANJEEV8811](https://github.com/SANJEEV8811)
+* **Alagappan A** - [@Alagappan03](https://github.com/Alagappan03)
 
 
 ## 🤝 Contributing
