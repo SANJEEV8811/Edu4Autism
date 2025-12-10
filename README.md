@@ -144,6 +144,14 @@ To get a local copy up and running, follow these simple steps.
 2. Launch the application.
 3. Allow camera permissions when prompted.
 4. Point the camera at the specific markers or interact with the screen as directed by the on-screen tutorial.
+## 👥 Core Team
+
+Meet the amazing people behind Edu4Autism:
+
+* **Rithika B** - [@github-rithi-jbala](https://github.com/github-rithi-jbala)
+* **Sanjeev D** - [@github-SANJEEV8811](https://github.com/github-SANJEEV8811)
+* **Alagappan A** - [@github-Alagappan03](https://github.com/github-Alagappan03)
+
 
 ## 🤝 Contributing
 
